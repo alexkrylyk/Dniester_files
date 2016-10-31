@@ -1,37 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 <name>bazus</name>
-<Style id="P94100122">
-<IconStyle>
-<Icon>
-<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-</Icon>
-</IconStyle>
-<LineStyle>
-<color>FF000080</color>
-<width>2</width>
-</LineStyle>
-<PolyStyle>
-<color>FFB9D0F4</color>
-</PolyStyle>
-</Style>
-<Style id="S94100123">
-<IconStyle>
-<Icon>
-<href>http://maps.google.com/mapfiles/kml/S94100123.png</href>
-</Icon>
-</IconStyle>
-<LineStyle>
-<color>FF000000</color>
-<width>2</width>
-</LineStyle>
-<PolyStyle>
-<color>FF8080FF</color>
-</PolyStyle>
-</Style>
-<Folder>
-<name>SQUARE</name>
 <Placemark>
 <description><![CDATA[<b>!Код связи с базой данных</b> = 1 %340<br><b>!Код ВХУ</b> = 2.3.0.01 %373<br><b>!Собственное название (рус.)</b> = р.Днестр от истока до устья р.Стрый %117<br>]]></description>
 <styleUrl>#P94100122</styleUrl>
