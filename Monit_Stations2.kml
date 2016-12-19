@@ -12,84 +12,84 @@
 <Folder>
 <name>POINT</name>
 <Placemark>
-<description><![CDATA[<br><b>Собственное название (рус.)</b> = г. Могилев-Подольский]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = г. Могилев-Подольский]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>27.78915320,48.44304728,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = г.Залещики<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = г.Залещики]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>25.73563139,48.63289144,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<br><b>Собственное название (рус.)</b> = г.Галич<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = г.Галич]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>24.72892577,49.12570705,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = пгт Роздол<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = пгт Роздол]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>24.06983143,49.43852287,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Hrusca<br><b>Собственное название (рус.)</b> = с.Хрушка (Молдова)<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Hrusca<br><b>Собственное название (рус.)</b> = с.Хрушка (Молдова)]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>28.57807761,48.10424598,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Jeloboc<br><b>Собственное название (рус.)</b> = с.Желобок<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Jeloboc<br><b>Собственное название (рус.)</b> = с.Желобок]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>28.91633333,47.35632790,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Pruncul<br><b>Собственное название (рус.)</b> = г.Кишинев<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Pruncul<br><b>Собственное название (рус.)</b> = г.Кишинев]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>28.77715901,47.05691645,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Causeni<br><b>Собственное название (рус.)</b> = г. Кэушень<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Causeni<br><b>Собственное название (рус.)</b> = г. Кэушень]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>29.40538049,46.64750424,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Olanesti+Trn<br><br><b>Собственное название (рус.)</b> = р.Днестр – с.Оланешты<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Olanesti+Trn<br><br><b>Собственное название (рус.)</b> = р.Днестр – с.Оланешты]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>29.92676951,46.50196298,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Bender<br><b>Собственное название (рус.)</b> = г.Бендер<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Bender<b>Собственное название (рус.)</b> = г.Бендер]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>29.49056978,46.83033740,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (гос.)</b> = Dubasari_r<br><b>Собственное название (рус.)</b> = Дубосарская ГЭС<br>]]></description>
+<description><![CDATA[<b>Собственное название (гос.)</b> = Dubasari_r<b>Собственное название (рус.)</b> = Дубосарская ГЭС]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>29.12313701,47.27779752,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = с.Верхнее Синевидное<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = с.Верхнее Синевидное]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>23.60299351,49.10815096,0.0000</coordinates>
@@ -103,28 +103,28 @@
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = р.Быстрица Солотвинская – г.Ивано-Франковск<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = р.Быстрица Солотвинская – г.Ивано-Франковск]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>24.70403184,48.93773159,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = г.Чертков<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = г.Чертков]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>25.81540767,48.97371550,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = с.Завалье<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = с.Завалье]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>26.33988555,48.59545931,0.0000</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<description><![CDATA[<b>Собственное название (рус.)</b> = рук.Турунчук – с.Незавертайловка<br>]]></description>
+<description><![CDATA[<b>Собственное название (рус.)</b> = рук.Турунчук – с.Незавертайловка]]></description>
 <styleUrl>#P0094200000</styleUrl>
 <Point>
 <coordinates>29.91828593,46.57314641,0.0000</coordinates>
