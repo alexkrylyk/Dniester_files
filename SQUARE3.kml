@@ -2,7 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>SQUARE3.kml</name>
-	<Style id="P94100122">
+	<open>1</open>
+	<Style id="P941001222914">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -13,40 +14,96 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="P941001220">
+	<Style id="P941001221712">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P941001222313">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P941001225</styleUrl>
+			<styleUrl>#P941001222911</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012219</styleUrl>
+			<styleUrl>#P94100122173</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="P941001221">
+	<Style id="P941001221713">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122173">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122232">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012233</styleUrl>
+			<styleUrl>#P94100122291</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012222</styleUrl>
+			<styleUrl>#P94100122179</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="P941001222">
+	<Style id="P94100122172">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P941001222310">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012238</styleUrl>
+			<styleUrl>#P941001222914</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012230</styleUrl>
+			<styleUrl>#P941001221710</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="P941001223">
+	<Style id="P94100122292">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -57,72 +114,20 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P941001224">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P941001225">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P941001226">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P941001227">
+	<StyleMap id="P941001222311">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012243</styleUrl>
+			<styleUrl>#P94100122294</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012218</styleUrl>
+			<styleUrl>#P94100122170</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="P941001228">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012241</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P9410012225</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="P941001229">
+	<Style id="P94100122295">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -133,30 +138,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="P9410012210">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012235</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P941001229</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="P9410012211">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P941001223</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P9410012231</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="P9410012212">
+	<Style id="P94100122293">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -167,10 +152,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012213">
+	<Style id="P94100122175">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -181,10 +166,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012214">
+	<Style id="P94100122298">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -195,20 +180,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="P9410012215">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012242</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P9410012228</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="P9410012216">
+	<Style id="P941001221711">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -219,163 +194,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012217">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012218">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012219">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012220">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012221">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012222">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P9410012223">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012229</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P9410012217</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="P9410012224">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012232</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P9410012214</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="P9410012225">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012226">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P9410012227">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#P9410012220</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#P94100122</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="P9410012228">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="P9410012229">
@@ -389,10 +208,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012230">
+	<Style id="P94100122170">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -403,10 +222,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012231">
+	<Style id="P941001222910">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -417,10 +236,10 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012232">
+	<Style id="P941001221714">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -431,34 +250,20 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012233">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P9410012234">
+	<StyleMap id="P94100122230">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012237</styleUrl>
+			<styleUrl>#P9410012229</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P941001226</styleUrl>
+			<styleUrl>#P94100122171</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="P9410012235">
+	<Style id="P94100122174">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -469,72 +274,58 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="P9410012236">
+	<Style id="P941001222912">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122171">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122234">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012226</styleUrl>
+			<styleUrl>#P94100122293</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P941001224</styleUrl>
+			<styleUrl>#P941001221711</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="P9410012237">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012238">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012239">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P9410012240">
+	<StyleMap id="P941001222312">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012239</styleUrl>
+			<styleUrl>#P94100122292</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012244</styleUrl>
+			<styleUrl>#P94100122175</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="P9410012241">
+	<Style id="P94100122176">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
@@ -545,78 +336,292 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>9900a3fa</color>
+			<color>6600a3fa</color>
 		</PolyStyle>
 	</Style>
-	<Style id="P9410012242">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012243">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<Style id="P9410012244">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>cc00aaff</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>9900a3fa</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="P9410012245">
+	<StyleMap id="P94100122233">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012221</styleUrl>
+			<styleUrl>#P941001222910</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012216</styleUrl>
+			<styleUrl>#P94100122172</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="P9410012246">
+	<Style id="P94100122291">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122237">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#P9410012212</styleUrl>
+			<styleUrl>#P941001222913</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#P9410012213</styleUrl>
+			<styleUrl>#P94100122174</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="P9410012217">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P941001222913">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P941001222314">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P941001222912</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P94100122176</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="P94100122236">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122296</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P9410012217</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="P941001221710">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122290">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122294">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122179">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122178">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122296">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122235">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122295</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P941001221713</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="P9410012223">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P941001221714</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="P941001222911">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122231">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122298</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P94100122177</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="P94100122239">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122299</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P94100122178</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="P94100122177">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="P94100122238">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#P94100122297</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#P941001221712</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="P94100122299">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="P94100122297">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/P94100122.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>cc00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600a3fa</color>
+		</PolyStyle>
+	</Style>
 	<Folder>
 		<name>SQUARE</name>
 		<open>1</open>
 		<Placemark>
 			<name>2.3.0.01</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 1 <br><b>Код ВХУ</b> = 2.3.0.01 <br><b>Собственное название (рус.)</b> = р.Днестр от истока до устья р.Стрый<br>]]></description>
-			<styleUrl>#P9410012223</styleUrl>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 1 <br>
+<b>Код ВХУ</b> = 2.3.0.01 <br>
+<b>Собственное название (рус.)</b> = р.Днестр от истока до устья р.Стрый<br>
+<b>Proper name (en.)</b> =r. Dniester from springhead until Stryi estuary<br>]]></description>
+			<styleUrl>#P94100122237</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -629,8 +634,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.03</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 3 <br><b>Код ВХУ</b> = 2.3.0.03<br><b>Собственное название (рус.)</b> = р.Днестр от устья р.Стрый до устья р.Гнилая Липа<br>]]></description>
-			<styleUrl>#P9410012246</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 3 <br>
+<b>Код ВХУ</b> = 2.3.0.03<br>
+<b>Собственное название (рус.)</b> = р.Днестр от устья р.Стрый до устья р.Гнилая Липа<br>
+<b>Proper name (en.)</b> =r. Dniester from Stryi estuary until Hnyla Lypa estuary<br>]]></description>
+			<styleUrl>#P94100122238</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -643,8 +652,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.02</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 2<br><b>Код ВХУ</b> = 2.3.0.02<br><b>Собственное название (рус.)</b> = р.Стрый<br>]]></description>
-			<styleUrl>#P941001220</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 2<br>
+<b>Код ВХУ</b> = 2.3.0.02<br>
+<b>Собственное название (рус.)</b> = р.Стрый<br>
+<b>Proper name (en.)</b> =r. Stryi<br>]]></description>
+			<styleUrl>#P94100122234</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -657,8 +670,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.05</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 5<br><b>Код ВХУ</b> = 2.3.0.05<br><b>Собственное название (гос.)</b> = р.Быстрица<br>]]></description>
-			<styleUrl>#P941001221</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 5<br>
+<b>Код ВХУ</b> = 2.3.0.05<br>
+<b>Собственное название (гос.)</b> = р.Быстрица<br>
+<b>Proper name (en.)</b> =r. Bystrytsya<br>]]></description>
+			<styleUrl>#P94100122232</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -671,8 +688,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.04</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 4<br><b>Код ВХУ</b> = 2.3.0.04<br><b>Собственное название (рус.)</b> = р.Днестр от устья р.Гнилая Липа до устья р.Серет (исключая рр. Быстрица и Серет)<br>]]></description>
-			<styleUrl>#P9410012236</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 4<br>
+<b>Код ВХУ</b> = 2.3.0.04<br>
+<b>Собственное название (рус.)</b> = р.Днестр от устья р.Гнилая Липа до устья р.Серет (исключая рр. Быстрица и Серет)<br>
+<b>Proper name (en.)</b> =r. Dniester from Hnyla Lypa estuary until Seret estuary (without r. Bystrytsya and r. Seret)<br>]]></description>
+			<styleUrl>#P94100122239</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -685,8 +706,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.06</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 6<br><b>Код ВХУ</b> = 2.3.0.06 %<br><b>Собственное название (рус.)</b> = р.Серет<br>]]></description>
-			<styleUrl>#P9410012245</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 6<br>
+<b>Код ВХУ</b> = 2.3.0.06 <br>
+<b>Собственное название (рус.)</b> = р.Серет<br>
+<b>Proper name (en.)</b> =r. Seret<br>]]></description>
+			<styleUrl>#P9410012223</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -699,8 +724,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.08</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 8<br><b>Код ВХУ</b> = 2.3.0.08<br><b>Собственное название (рус.)</b> = р. Збруч<br>]]></description>
-			<styleUrl>#P9410012227</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 8<br>
+<b>Код ВХУ</b> = 2.3.0.08<br>
+<b>Собственное название (рус.)</b> = р. Збруч<br>
+<b>Proper name (en.)</b> =r. Zbruch<br>]]></description>
+			<styleUrl>#P94100122236</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -713,8 +742,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.07</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 7<br><b>Код ВХУ</b> = 2.3.0.07<br><b>Собственное название (рус.)</b> = р.Днестр от устья р.Серет до г/п Могилев-Подольский (исключая р.Збруч)<br>]]></description>
-			<styleUrl>#P941001222</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 7<br>
+<b>Код ВХУ</b> = 2.3.0.07<br>
+<b>Собственное название (рус.)</b> = р.Днестр от устья р.Серет до г/п Могилев-Подольский (исключая р.Збруч)<br>
+<b>Proper name (en.)</b> =r. Dniester from Seret estuary until h/p Mohyliv-Podil's'kyi (without r. Zbruch)<br>]]></description>
+			<styleUrl>#P94100122233</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -727,8 +760,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.09</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 9<br><b>Код ВХУ</b> = 2.3.0.09<br><b>Собственное название (рус.)</b> = р.Днестр от г/п Могилев-Подольский до границы Украина-Молдова<br>]]></description>
-			<styleUrl>#P9410012240</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 9<br>
+<b>Код ВХУ</b> = 2.3.0.09<br>
+<b>Собственное название (рус.)</b> = р.Днестр от г/п Могилев-Подольский до границы Украина-Молдова<br>
+<b>Proper name (en.)</b> =r. Dniester from h/p Mohyliv-Podil's'kyi until Ukraine-Moldva border<br>]]></description>
+			<styleUrl>#P94100122230</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -741,8 +778,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.14</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 14<br><b>Код ВХУ</b> = 2.3.0.14<br><b>Собственное название (рус.)</b> = р.Днестр от устья р.Бык до устья (исключая р.Ботна)<br>]]></description>
-			<styleUrl>#P9410012210</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 14<br>
+<b>Код ВХУ</b> = 2.3.0.14<br>
+<b>Собственное название (рус.)</b> = р.Днестр от устья р.Бык до устья (исключая р.Ботна)<br>
+<b>Proper name (en.)</b> =r. Dniester from jonction r. Byc until mouth r. Botna (without r. Botna)<br>]]></description>
+			<styleUrl>#P94100122231</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -755,8 +796,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.16</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 16<br><b>Код ВХУ</b> = 2.3.0.16<br><b>Собственное название (рус.)</b> = Днестровский лиман<br>]]></description>
-			<styleUrl>#P941001227</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 16<br>
+<b>Код ВХУ</b> = 2.3.0.16<br>
+<b>Собственное название (рус.)</b> = Днестровский лиман<br>
+<b>Proper name (en.)</b> =Dniester liman<br>]]></description>
+			<styleUrl>#P941001222311</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -769,8 +814,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.10</name>
-			<description><![CDATA[<b>Код связи с базой данных</b> = 10<br><b>Код ВХУ</b> = 2.3.0.10<br><b>Собственное название (рус.)</b> = р.Днестр от границы Украина-Молдова до устья р.Реут<br>]]></description>
-			<styleUrl>#P9410012211</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 10<br>
+<b>Код ВХУ</b> = 2.3.0.10<br>
+<b>Собственное название (рус.)</b> = р.Днестр от границы Украина-Молдова до устья р.Реут<br>
+<b>Proper name (en.)</b> =r. Dniester from Ukraine-Moldva border until r. Raut jonction<br>]]></description>
+			<styleUrl>#P941001222314</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -783,13 +832,17 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.13</name>
-			<description><![CDATA[<b>Собственное название (рус.)</b> =  р.Бык<br><b>Код связи с базой данных</b> = 13<br><b>Код ВХУ</b> = 2.3.0.13<br>]]></description>
-			<styleUrl>#P9410012224</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 13<br>
+<b>Код ВХУ</b> = 2.3.0.13<br>
+<b>Собственное название (рус.)</b> =  р.Бык<br>
+<b>Proper name (en.)</b> =r. Byc<br>]]></description>
+			<styleUrl>#P94100122235</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							29.4663174,46.91555758,0 29.46214976,46.92376669000001,0 29.4433964,46.93019003,0 29.38869986,46.92697742000001,0 29.33608675,46.93125884999999,0 29.31108209,46.94517343,0 29.28868189,46.96300750999999,0 29.26680235,46.98832176,0 29.24648584,47.00614138,0 29.21887667,47.01718629,0 29.18345386,47.02359811,0 29.16938922,47.01754176999999,0 29.15949216,47.00542729,0 29.14334393,46.99651767,0 29.12927939,46.98760662,0 29.11052617,46.99010149,0 29.10010758,46.99544776,0 29.09229321,47.01183998,0 29.08646934,47.01896544,0 29.08610975,47.02039307999999,0 29.07843803,47.02130541,0 29.07193368,47.02370033,0 29.06909863,47.01982257,0 29.06909876,47.01605864,0 29.05895428,47.01255207,0 29.05475615,47.01275046999999,0 29.04124706,47.01959399,0 29.03674424,47.01594401,0 29.03574371,47.01240794,0 29.02673782,47.01217966,0 29.01953119,47.01557986000001,0 29.0188992,47.01651402,0 29.01039324,47.02780486000001,0 29.00155403,47.03019944,0 28.9985268,47.03321223,0 28.98810827000001,47.03677349,0 28.97753796,47.04000492,0 28.97053306,47.04901098000001,0 28.96603022,47.04593302,0 28.96086019,47.04524893,0 28.95985953,47.04536292,0 28.9508536,47.04638874,0 28.94735105000001,47.05379805,0 28.94451562,47.06075041,0 28.93717748,47.06063633,0 28.92767112,47.06439696,0 28.92216757,47.06302931999999,0 28.91716427,47.06359908,0 28.91633025,47.06781543,0 28.91282785,47.07077801,0 28.90782452,47.07237317,0 28.8981514,47.07567723,0 28.88392261,47.08233732,0 28.86569034,47.08411613,0 28.85422969,47.0955008,0 28.86048034,47.10688333,0 28.85579179,47.11435164,0 28.84068512,47.11399579,0 28.82818293,47.1168404,0 28.80786674,47.12537367,0 28.79995914,47.13390577,0 28.7967496,47.13488847,0 28.79258001,47.14035085999999,0 28.78173941,47.14524363000001,0 28.77456796,47.14763297,0 28.76189281,47.15298012,0 28.75155264,47.15480025,0 28.73454136,47.15878157,0 28.72436791,47.16230770999999,0 28.71602887,47.16947321999999,0 28.70769009,47.16890439,0 28.69518197,47.16708442,0 28.67733699,47.16606049,0 28.67398879,47.16624254999999,0 28.65627731,47.17192619,0 28.63804457000001,47.18684324,0 28.62658388,47.19962597,0 28.61199792,47.20495102999999,0 28.59949556000001,47.21276032,0 28.57397042,47.21417967000001,0 28.55625889,47.22092282,0 28.53707633,47.22744214,0 28.52907116,47.22562423,0 28.51823065,47.22778261,0 28.50622273,47.2296001,0 28.50005192,47.23232644000001,0 28.49895727,47.23227731999999,0 28.47343195,47.23866323,0 28.45884609,47.24150109,0 28.44530187,47.24965966,0 28.43175756,47.26065402,0 28.42550206,47.26253337,0 28.42066558000001,47.26196565999999,0 28.41316053,47.26582553,0 28.40482158,47.27013915,0 28.37601837,47.28139474,0 28.3557889,47.28682252,0 28.34478164,47.28829752,0 28.33560911,47.28443904,0 28.32677007,47.28228263,0 28.31611253,47.28192548,0 28.28589893,47.28830528,0 28.28307458,47.28852346,0 28.27790433,47.29396993,0 28.27356789,47.30157143,0 28.25889145,47.30644923,0 28.25516396,47.30744111,0 28.22234579,47.31310924,0 28.19682043,47.32090227,0 28.17754619,47.32656918,0 28.15670927,47.32975640000001,0 28.13795593,47.33577649,0 28.11659794,47.34321215,0 28.10812429,47.35769536,0 28.09961863,47.36030166999999,0 28.08677673,47.36494742,0 28.07143312,47.37163207,0 28.05492228,47.37253815,0 28.05025227,47.38069466,0 28.04952813,47.38090597000001,0 28.0480956,47.38108287,0 28.04392811,47.38462083,0 28.03845843,47.38532830000001,0 28.03403052,47.38762779,0 28.0243935,47.38762766000001,0 28.01788185,47.39187259000001,0 28.01606283,47.39190729,0 28.00805757,47.39258669,0 27.99554932,47.394172,0 27.98787754,47.39688974,0 27.98688692,47.3970011,0 27.98584522,47.39311018,0 27.98845,47.38815769000001,0 28.00459895,47.3761285,0 28.00199485,47.36197259999999,0 27.99678617,47.34745884,0 27.99782873,47.3272746,0 27.99721446,47.32311282000001,0 27.9958471,47.3217845,0 27.99591232,47.31868504999999,0 27.99454502,47.31554108,0 27.99500091,47.31314981,0 27.99578238000001,47.31040414999999,0 27.99598052,47.30984792999999,0 27.99014346,47.30723885,0 27.99314563,47.30133992,0 27.99498037,47.29544032,0 27.99498052,47.29124208,0 28.00431995,47.29158268,0 28.01299234,47.29022117,0 28.03116957,47.27199431,0 28.02960728,47.25887425,0 28.03367389,47.25208098,0 28.03484152,47.24651653,0 28.03984484,47.24526737,0 28.04301359,47.24504027,0 28.04268031,47.23720336000001,0 28.04301395,47.23493161,0 28.04701684000001,47.22720686,0 28.05235378,47.22391218,0 28.06402818000001,47.22141279,0 28.07353454,47.21732246,0 28.07857528,47.21594623999999,0 28.10253796,47.2060077,0 28.1405659,47.18399398,0 28.15225435,47.17105623,0 28.15558996,47.16855419,0 28.15825853,47.16389087999999,0 28.15825873,47.15831709,0 28.15942636000001,47.15274275,0 28.16226162,47.15058114,0 28.16843243,47.14773683,0 28.17426973,47.14364067999999,0 28.20568293,47.12678598,0 28.22339442,47.12109748,0 28.24214773,47.11576403,0 28.25465014,47.10651775,0 28.27236175000001,47.09726996000001,0 28.27266907,47.09776571,0 28.27767239,47.09639913,0 28.28517729,47.09662703000001,0 28.29201513,47.09582991,0 28.3008539,47.10573765,0 28.30674216,47.10616295,0 28.31316025,47.10389563999999,0 28.31622073,47.10185046,0 28.31700214,47.10087229,0 28.3173649,47.10015799,0 28.31969993,47.09537477,0 28.32587078,47.09138851,0 28.33037376,47.09047736,0 28.33687807,47.08888283,0 28.34188138,47.08774380999999,0 28.34571738,47.08341515000001,0 28.34621771,47.08330124,0 28.35623039,47.08304035,0 28.36616461,47.08317392,0 28.37078776,47.08339641000001,0 28.37214009,47.08364343,0 28.37864438,47.08273219,0 28.38548219000001,47.08261841,0 28.38648268,47.08728893,0 28.39098553,47.09002276,0 28.39024619,47.09287026,0 28.38991261,47.09378142,0 28.39107971,47.10312007,0 28.39891808,47.10596701999999,0 28.4072567,47.11074944,0 28.41326051,47.11427906,0 28.42310015,47.11815003,0 28.4214322,47.12338653,0 28.42083724,47.12338653,0 28.42950946,47.12691535,0 28.44602022,47.12805387,0 28.45285816,47.12441151,0 28.46536645000001,47.12167976999999,0 28.46874784,47.12039038,0 28.47968758,47.10829974,0 28.50208786,47.08802402,0 28.51823699,47.07094364,0 28.51940366,47.0690624,0 28.52482404,47.06427642,0 28.52690928000001,47.04894672999999,0 28.53349699,47.04689493,0 28.54080463,47.03943713,0 28.54288839000001,47.03712239,0 28.54757677,47.03418428,0 28.55343726,47.03026658,0 28.55669307,47.02875285,0 28.55759675,47.02848170000001,0 28.56460176,47.01627849,0 28.5699387,47.01297069999999,0 28.57294048,47.01821769,0 28.59578932,47.00258976,0 28.60379485,46.99426055,0 28.61163339,46.99197845,0 28.62364154,46.98376176,0 28.63114675,46.9753154,0 28.64030265,46.97458609,0 28.64759568,46.97048575,0 28.65367985,46.96763314,0 28.67764245,46.95978781,0 28.69431222,46.95051437,0 28.70785634,46.94516362,0 28.70886534,46.94517242,0 28.71186763,46.93580599,0 28.71370235,46.9306652,0 28.7245429,46.92700935,0 28.73238132,46.92838051,0 28.73688452,46.92118226,0 28.74188791,46.91786852,0 28.74689144,46.91066884,0 28.75873255,46.90986904,0 28.76573712,46.91032632,0 28.76957308,46.90689758,0 28.77474335,46.9006109,0 28.77857917,46.90152545,0 28.78391582,46.90655492,0 28.79125431,46.89626719,0 28.79775874,46.89135133,0 28.81110082,46.89112284,0 28.81343589,46.88494865,0 28.81860601,46.88323354999999,0 28.8267781,46.88106105,0 28.83478329,46.88243337000001,0 28.84062048,46.88140433,0 28.84945975,46.87717327000001,0 28.8561307,46.87968925999999,0 28.8654704,46.87248452000001,0 28.87681112,46.87351403,0 28.8839825,46.87294230000001,0 28.89949259,46.87477244,0 28.90649713,46.87614494,0 28.91150047,46.87442954000001,0 28.91783794,46.87488711,0 28.9201731,46.86608025,0 28.92551014,46.86001758,0 28.93585035,46.85681451999999,0 28.9405199,46.86207697,0 28.94552324,46.86024669999999,0 28.94869181,46.86505120000001,0 28.95319477,46.86470813,0 28.95452884,46.86882595,0 28.96320114,46.87008428,0 28.96937228,46.85761587,0 28.97387519,46.85876,0 28.9853828,46.85647208,0 28.9893855,46.8542984,0 28.99422202,46.85372642,0 29.00556287,46.85098068,0 29.01056611,46.85201052,0 29.01456862,46.85544291,0 29.02023883,46.86024790999999,0 29.02474178,46.8603052,0 29.03291388,46.85767413,0 29.04141532,46.85787257,0 29.04922912,46.85787269,0 29.04948969,46.85483529999999,0 29.0505316,46.85286983,0 29.051313,46.85215511,0 29.05242688,46.85143913,0 29.06143289,46.84812111000001,0 29.06076591,46.84468826000001,0 29.07444208,46.82855131,0 29.08178025,46.82775015999999,0 29.098458,46.82317155,0 29.11029921,46.81962282,0 29.12013901,46.81905059,0 29.12447551,46.80943299,0 29.13114679,46.80221874,0 29.13748435,46.80004288,0 29.14082011,46.79305636,0 29.14849199,46.78755821,0 29.15549644,46.79145298,0 29.16283466,46.78927671,0 29.16333486,46.79282762,0 29.16833802,46.7963784,0 29.18218056,46.79214068,0 29.18484926,46.78389297,0 29.19302129,46.78354939999999,0 29.20136004,46.78492428000001,0 29.20319435,46.7913392,0 29.20769724,46.79317199,0 29.21436861000001,46.78354978000001,0 29.22254072,46.78068577,0 29.23037925,46.77896735,0 29.2368835,46.77931118,0 29.23971917,46.76533176,0 29.2492257,46.7563923,0 29.25456262,46.75364145,0 29.25939867,46.76693648,0 29.26273396,46.77358274,0 29.2682374,46.77839512,0 29.2707388,46.78526906999999,0 29.27657594,46.78584193,0 29.2845812,46.78515474000001,0 29.28741658,46.77965571,0 29.2935874,46.77656233,0 29.30225961,46.7804579,0 29.30726275,46.78446776,0 29.31343331,46.7887064,0 29.30726225,46.79912942,0 29.30542747000001,46.80622964,0 29.30759529,46.81401601,0 29.30526011,46.82328939999999,0 29.30859515,46.83713931,0 29.30542608,46.84640869,0 29.31810107,46.84595116,0 29.31826788,46.84503572999999,0 29.31860136,46.84709542,0 29.32280607,46.85037261,0 29.34129866,46.85305323,0 29.35145643,46.85823496,0 29.35353971,46.86984699,0 29.35462414,46.87077688,0 29.36579796,46.87546621,0 29.36863288,46.88324252000001,0 29.38064061,46.88735908,0 29.39464965,46.89113236,0 29.40682411,46.89639154,0 29.41983267,46.89536283,0 29.43851148,46.89822114,0 29.43934509,46.90599405,0 29.44251376,46.90805146999999,0 29.45285383,46.90919455000001,0 29.46052545,46.91102331,0 29.46669618,46.910452,0 29.4672555,46.9107315,0 29.46788032,46.91109561,0 29.4663174,46.91555758,0 
+							29.4663174,46.91555758,0 29.46214976,46.92376669000001,0 29.4433964,46.93019003,0 29.38869986,46.92697742000001,0 29.33608675,46.93125884999999,0 29.31108209,46.94517343,0 29.28868189,46.96300750999999,0 29.26680235,46.98832176,0 29.24648584,47.00614138,0 29.21887667,47.01718629,0 29.18345386,47.02359811,0 29.16938922,47.01754176999999,0 29.15949216,47.00542729,0 29.14334393,46.99651767,0 29.12927939,46.98760662,0 29.11052617,46.99010149,0 29.10010758,46.99544776,0 29.09229321,47.01183998,0 29.08646934,47.01896544,0 29.08610975,47.02039307999999,0 29.07843803,47.02130541,0 29.07193368,47.02370033,0 29.06909863,47.01982257,0 29.06909876,47.01605864,0 29.05895428,47.01255207,0 29.05475615,47.01275046999999,0 29.04124706,47.01959399,0 29.03674424,47.01594401,0 29.03574371,47.01240794,0 29.02673782,47.01217966,0 29.01953119,47.01557986000001,0 29.0188992,47.01651402,0 29.01039324,47.02780486000001,0 29.00155403,47.03019944,0 28.9985268,47.03321223,0 28.98810827000001,47.03677349,0 28.97753796,47.04000492,0 28.97053306,47.04901098000001,0 28.96603022,47.04593302,0 28.96086019,47.04524893,0 28.95985953,47.04536292,0 28.9508536,47.04638874,0 28.94735105000001,47.05379805,0 28.94451562,47.06075041,0 28.93717748,47.06063633,0 28.92767112,47.06439696,0 28.92216757,47.06302931999999,0 28.91716427,47.06359908,0 28.91633025,47.06781543,0 28.91282785,47.07077801,0 28.90782452,47.07237317,0 28.8981514,47.07567723,0 28.88392261,47.08233732,0 28.86569034,47.08411613,0 28.85422969,47.0955008,0 28.86048034,47.10688333,0 28.85579179,47.11435164,0 28.84068512,47.11399579,0 28.82818293,47.1168404,0 28.80786674,47.12537367,0 28.79995914,47.13390577,0 28.7967496,47.13488847,0 28.79258001,47.14035085999999,0 28.78173941,47.14524363000001,0 28.77456796,47.14763297,0 28.76189281,47.15298012,0 28.75155264,47.15480025,0 28.73454136,47.15878157,0 28.72436791,47.16230770999999,0 28.71602887,47.16947321999999,0 28.70769009,47.16890439,0 28.69518197,47.16708442,0 28.67733699,47.16606049,0 28.67398879,47.16624254999999,0 28.65627731,47.17192619,0 28.63804457000001,47.18684324,0 28.62658388,47.19962597,0 28.61199792,47.20495102999999,0 28.59949556000001,47.21276032,0 28.57397042,47.21417967000001,0 28.55625889,47.22092282,0 28.53707633,47.22744214,0 28.52907116,47.22562423,0 28.51823065,47.22778261,0 28.50622273,47.2296001,0 28.50005192,47.23232644000001,0 28.49895727,47.23227731999999,0 28.47343195,47.23866323,0 28.45884609,47.24150109,0 28.44530187,47.24965966,0 28.43175756,47.26065402,0 28.42550206,47.26253337,0 28.42066558000001,47.26196565999999,0 28.41316053,47.26582553,0 28.40482158,47.27013915,0 28.37601837,47.28139474,0 28.3557889,47.28682252,0 28.34478164,47.28829752,0 28.33560911,47.28443904,0 28.32677007,47.28228263,0 28.31611253,47.28192548,0 28.28589893,47.28830528,0 28.28307458,47.28852346,0 28.27790433,47.29396993,0 28.27356789,47.30157143,0 28.25889145,47.30644923,0 28.25516396,47.30744111,0 28.22234579,47.31310924,0 28.19682043,47.32090227,0 28.17754619,47.32656918,0 28.15670927,47.32975640000001,0 28.13795593,47.33577649,0 28.11659794,47.34321215,0 28.10812429,47.35769536,0 28.09961863,47.36030166999999,0 28.08677673,47.36494742,0 28.07143312,47.37163207,0 28.05492228,47.37253815,0 28.05025227,47.38069466,0 28.04952813,47.38090597000001,0 28.0480956,47.38108287,0 28.04392811,47.38462083,0 28.03845843,47.38532830000001,0 28.03403052,47.38762779,0 28.0243935,47.38762766000001,0 28.01788185,47.39187259000001,0 28.01606283,47.39190729,0 28.00805757,47.39258669,0 27.99554932,47.394172,0 27.98787754,47.39688974,0 27.98688692,47.3970011,0 27.98584522,47.39311018,0 27.98845,47.38815769000001,0 28.00459895,47.3761285,0 28.00199485,47.36197259999999,0 27.99678617,47.34745884,0 27.99782873,47.3272746,0 27.99721446,47.32311282000001,0 27.9958471,47.3217845,0 27.99591232,47.31868504999999,0 27.99454502,47.31554108,0 27.99500091,47.31314981,0 27.99578238000001,47.31040414999999,0 27.99598052,47.30984792999999,0 27.99014346,47.30723885,0 27.99314563,47.30133992,0 27.99498037,47.29544032,0 27.99498052,47.29124208,0 28.00431995,47.29158268,0 28.01299234,47.29022117,0 28.03116957,47.27199431,0 28.02960728,47.25887425,0 28.03367389,47.25208098,0 28.03484152,47.24651653,0 28.03984484,47.24526737,0 28.04301359,47.24504027,0 28.04268031,47.23720336000001,0 28.04301395,47.23493161,0 28.04701684000001,47.22720686,0 28.05235378,47.22391218,0 28.06402818000002,47.22141279,0 28.07353454,47.21732246,0 28.07857528,47.21594623999999,0 28.10253796,47.2060077,0 28.1405659,47.18399398,0 28.15225435,47.17105623,0 28.15558996,47.16855419,0 28.15825853,47.16389087999999,0 28.15825873,47.15831709,0 28.15942636000001,47.15274275,0 28.16226162,47.15058114,0 28.16843243,47.14773683,0 28.17426973,47.14364067999999,0 28.20568293,47.12678598,0 28.22339442,47.12109748,0 28.24214773,47.11576403,0 28.25465014,47.10651775,0 28.27236175000001,47.09726996000001,0 28.27266907,47.09776571,0 28.27767239,47.09639913,0 28.28517729,47.09662703000001,0 28.29201513,47.09582991,0 28.3008539,47.10573765,0 28.30674216,47.10616295,0 28.31316025,47.10389563999999,0 28.31622073,47.10185046,0 28.31700214,47.10087229,0 28.3173649,47.10015799,0 28.31969993,47.09537477,0 28.32587078,47.09138851,0 28.33037376,47.09047736,0 28.33687807,47.08888283,0 28.34188138,47.08774380999999,0 28.34571738,47.08341515000001,0 28.34621771,47.08330124,0 28.35623039,47.08304035,0 28.36616461,47.08317392,0 28.37078776,47.08339641000001,0 28.37214009,47.08364343,0 28.37864438,47.08273219,0 28.38548219000001,47.08261841,0 28.38648268,47.08728893,0 28.39098553,47.09002276,0 28.39024619,47.09287026,0 28.38991261,47.09378142,0 28.39107971,47.10312007,0 28.39891808,47.10596701999999,0 28.4072567,47.11074944,0 28.41326051,47.11427906,0 28.42310015,47.11815003,0 28.4214322,47.12338653,0 28.42083724,47.12338653,0 28.42950946,47.12691535,0 28.44602022,47.12805387,0 28.45285816,47.12441151,0 28.46536645000001,47.12167976999999,0 28.46874784,47.12039038,0 28.47968758,47.10829974,0 28.50208786,47.08802402,0 28.51823699,47.07094364,0 28.51940366,47.0690624,0 28.52482404,47.06427642,0 28.52690928000001,47.04894672999999,0 28.53349699,47.04689493,0 28.54080463,47.03943713,0 28.54288839000001,47.03712239,0 28.54757677,47.03418428,0 28.55343726,47.03026658,0 28.55669307,47.02875285,0 28.55759675,47.02848170000001,0 28.56460176,47.01627849,0 28.5699387,47.01297069999999,0 28.57294048,47.01821769,0 28.59578932,47.00258976,0 28.60379485,46.99426055,0 28.61163339,46.99197845,0 28.62364154,46.98376176,0 28.63114675,46.9753154,0 28.64030265,46.97458609,0 28.64759568,46.97048575,0 28.65367985,46.96763314,0 28.67764245,46.95978781,0 28.69431222,46.95051437,0 28.70785634,46.94516362,0 28.70886534,46.94517242,0 28.71186763,46.93580599,0 28.71370235,46.9306652,0 28.7245429,46.92700935,0 28.73238132,46.92838051,0 28.73688452,46.92118226,0 28.74188791,46.91786852,0 28.74689144,46.91066884,0 28.75873255,46.90986904,0 28.76573712,46.91032632,0 28.76957308,46.90689758,0 28.77474335,46.9006109,0 28.77857917,46.90152545,0 28.78391582,46.90655492,0 28.79125431,46.89626719,0 28.79775874,46.89135133,0 28.81110082,46.89112284,0 28.81343589,46.88494865,0 28.81860601,46.88323354999999,0 28.8267781,46.88106105,0 28.83478329,46.88243337000001,0 28.84062048,46.88140433,0 28.84945975,46.87717327000001,0 28.8561307,46.87968925999999,0 28.8654704,46.87248452000001,0 28.87681112,46.87351403,0 28.8839825,46.87294230000001,0 28.89949259,46.87477244,0 28.90649713,46.87614494,0 28.91150047,46.87442954000001,0 28.91783794,46.87488711,0 28.9201731,46.86608025,0 28.92551014,46.86001758,0 28.93585035,46.85681451999999,0 28.9405199,46.86207697,0 28.94552324,46.86024669999999,0 28.94869181,46.86505120000001,0 28.95319477,46.86470813,0 28.95452884,46.86882595,0 28.96320114,46.87008428,0 28.96937228,46.85761587,0 28.97387519,46.85876,0 28.9853828,46.85647208,0 28.9893855,46.8542984,0 28.99422202,46.85372642,0 29.00556287,46.85098068,0 29.01056611,46.85201052,0 29.01456862,46.85544291,0 29.02023883,46.86024790999999,0 29.02474178,46.8603052,0 29.03291388,46.85767413,0 29.04141532,46.85787257,0 29.04922912,46.85787269,0 29.04948969,46.85483529999999,0 29.0505316,46.85286983,0 29.051313,46.85215511,0 29.05242688,46.85143913,0 29.06143289,46.84812111000001,0 29.06076591,46.84468826000001,0 29.07444208,46.82855131,0 29.08178025,46.82775015999999,0 29.098458,46.82317155,0 29.11029921,46.81962282,0 29.12013901,46.81905059,0 29.12447551,46.80943299,0 29.13114679,46.80221874,0 29.13748435,46.80004288,0 29.14082011,46.79305636,0 29.14849199,46.78755821,0 29.15549644,46.79145298,0 29.16283466,46.78927671,0 29.16333486,46.79282762,0 29.16833802,46.7963784,0 29.18218056,46.79214068,0 29.18484926,46.78389297,0 29.19302129,46.78354939999999,0 29.20136004,46.78492428000001,0 29.20319435,46.7913392,0 29.20769724,46.79317199,0 29.21436861000001,46.78354978000001,0 29.22254072,46.78068577,0 29.23037925,46.77896735,0 29.2368835,46.77931118,0 29.23971917,46.76533176,0 29.2492257,46.7563923,0 29.25456262,46.75364145,0 29.25939867,46.76693648,0 29.26273396,46.77358274,0 29.2682374,46.77839512,0 29.2707388,46.78526906999999,0 29.27657594,46.78584193,0 29.2845812,46.78515474000001,0 29.28741658,46.77965571,0 29.2935874,46.77656233,0 29.30225961,46.7804579,0 29.30726275,46.78446776,0 29.31343331,46.7887064,0 29.30726225,46.79912942,0 29.30542747000001,46.80622964,0 29.30759529,46.81401601,0 29.30526011,46.82328939999999,0 29.30859515,46.83713931,0 29.30542608,46.84640869,0 29.31810107,46.84595116,0 29.31826788,46.84503572999999,0 29.31860136,46.84709542,0 29.32280607,46.85037261,0 29.34129866,46.85305323,0 29.35145643,46.85823496,0 29.35353971,46.86984699,0 29.35462414,46.87077688,0 29.36579796,46.87546621,0 29.36863288,46.88324252000001,0 29.38064061,46.88735908,0 29.39464965,46.89113236,0 29.40682411,46.89639154,0 29.41983267,46.89536283,0 29.43851148,46.89822114,0 29.43934509,46.90599405,0 29.44251376,46.90805146999999,0 29.45285383,46.90919455000001,0 29.46052545,46.91102331,0 29.46669618,46.910452,0 29.4672555,46.9107315,0 29.46788032,46.91109561,0 29.4663174,46.91555758,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -797,8 +850,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.11</name>
-			<description><![CDATA[<b>Собственное название (рус.)</b> = р.Реут<br><b>Код ВХУ</b> = 2.3.0.11<br><b>Код связи с базой данных</b> = 11<br>]]></description>
-			<styleUrl>#P9410012215</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 11<br>
+<b>Код ВХУ</b> = 2.3.0.11<br>
+<b>Собственное название (рус.)</b> = р.Реут<br>
+<b>Proper name (en.)</b> =r. Raut<br>]]></description>
+			<styleUrl>#P941001222310</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -811,8 +868,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.15</name>
-			<description><![CDATA[<b>Собственное название (рус.)</b> = р.Ботна<br><b>Код связи с базой данных</b> = 15<br><b>Код ВХУ</b> = 2.3.0.15<br>]]></description>
-			<styleUrl>#P941001228</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 15<br>
+<b>Код ВХУ</b> = 2.3.0.15<br>
+<b>Собственное название (рус.)</b> = р.Ботна<br>
+<b>Proper name (en.)</b> =r. Botna<br>]]></description>
+			<styleUrl>#P941001222313</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -825,8 +886,12 @@
 		</Placemark>
 		<Placemark>
 			<name>2.3.0.12</name>
-			<description><![CDATA[<b>Собственное название (гос.)</b> = р.Днестр от устья р.Реут до устья р.Бык (исключая р.Бык)<br><b>Код связи с базой данных</b> = 12<br><b>Код ВХУ</b> = 2.3.0.12<br>]]></description>
-			<styleUrl>#P9410012234</styleUrl>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Код связи с базой данных</b> = 12<br>
+<b>Код ВХУ</b> = 2.3.0.12<br>
+<b>Собственное название (рус.)</b> = р.Днестр от устья р.Реут до устья р.Бык (исключая р.Бык)<br>
+<b>Proper name (en.)</b> =r. Dniester from r. Raut jonction until r. Byc (without r. Byc)<br>]]></description>
+			<styleUrl>#P941001222312</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
